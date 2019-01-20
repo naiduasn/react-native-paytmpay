@@ -5,11 +5,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheCodeTalker/react-native-paytmpay.git"
+    "url": "git+https://github.com/naiduasn/react-native-paytmpay.git"
   },
   "_npmUser": {
-    "email": "chitaranjansahu93@gmail.com",
-    "name": "thecodetalker"
+    "email": "sunny250486@gmail.com",
+    "name": "naiduasn"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,15 +17,15 @@
   "keywords": [
     "react-native"
   ],
-  "author": "chitaranjansahu",
+  "author": "naidu",
   "license": "ISC",
   "peerDependencies": {
-    "react-native": "^0.53.0"
+    "react-native": "0.56.0"
   },
   "bugs": {
-    "url": "https://github.com/TheCodeTalker/react-native-paytmpay/issues"
+    "url": "https://github.com/naiduasn/react-native-paytmpay/issues"
   },
-  "homepage": "https://github.com/TheCodeTalker/react-native-paytmpay#readme",
+  "homepage": "https://github.com/naiduasn/react-native-paytmpay#readme",
   "directories": {
     "example": "example"
   }
